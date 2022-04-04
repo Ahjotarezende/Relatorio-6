@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1649032212 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\main.c
+	"bolha.h"
+	"countingsort.h"
+	"heapsort.h"
+	"insercao.h"
+	"mergesort.h"
+	"quicksort.h"
+	"selecao.h"
+	"shellsort.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+
+1648665507 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\bolha.h
+	"geracao.h"
+
+1648171902 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\countingsort.h
+
+1648171902 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\heapsort.h
+	<stdint.h>
+	<stdlib.h>
+	"geracao.h"
+
+1648665823 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\geracao.h
+	<stdbool.h>
+	<stdint.h>
+
+1648665823 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\insercao.h
+	"geracao.h"
+
+1648171902 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\mergesort.h
+	"geracao.h"
+
+1648171902 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\quicksort.h
+	"geracao.h"
+
+1648665823 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\selecao.h
+	"geracao.h"
+
+1648171902 c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\shellsort.h
+	"geracao.h"
+
+1648929639 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\bolha.c
+	"geracao.h"
+	"bolha.h"
+	<stdio.h>
+
+1648171902 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\countingsort.c
+	"geracao.h"
+	"countingsort.h"
+
+1648665863 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\geracao.c
+	"geracao.h"
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+
+1648171902 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\heapsort.c
+	"heapsort.h"
+
+1649031560 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\insercao.c
+	"insercao.h"
+
+1648171902 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\mergesort.c
+	"mergesort.h"
+	<stdlib.h>
+
+1648171902 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\quicksort.c
+	"quicksort.h"
+	<stdio.h>
+
+1648786843 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\selecao.c
+	"selecao.h"
+
+1648171902 source:c:\users\joaoa\onedrive\햞ea de trabalho\aed ii\lista 6\shellsort.c
+	"shellsort.h"
+
